@@ -1,0 +1,4 @@
+{
+    "testRepo": "id-color-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
